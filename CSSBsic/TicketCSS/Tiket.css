@@ -1,0 +1,28 @@
+div{
+    width: 400px;
+    background-color: #666666;
+}
+
+#Dot{
+    font-size: 80px;
+    color: brown;
+}
+#Parker, #Email, #Link{
+    color: yellowgreen;
+}
+#ThicketID{
+   font-style: italic;
+   color: #211f66;
+}
+#Support{
+    color: red;
+}
+.FirstColon{
+    color: antiquewhite;
+}
+#ResponsTime,#Never{
+    color: #5977ed;
+}
+#NotAnswer{
+    color: orange;
+}
